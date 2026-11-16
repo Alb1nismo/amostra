@@ -1,18 +1,17 @@
-# Nome do Projeto
+# Vagallumy
 
-> Descrição breve do sistema em uma frase.
-> Exemplo: Sistema para controle de empréstimo de livros da biblioteca escolar.
+> Sistema para controle de gastos de eletricidade de órgãos públicos.
 
 ---
 
 ## 📌 Informações Gerais
 
-- **Nome do Projeto:** 
-- **Equipe:** 
+- **Nome do Projeto:** Vagallumy
+- **Equipe:** InovaRCH
 - **Curso:** Técnico em Informática
-- **Instituição:** Nome da Escola
-- **Ano/Semestre:** 
-- **Professor Orientador:** 
+- **Instituição:** FUNEC Riacho
+- **Ano/Semestre:** 2026/2º semestre
+- **Professor Orientador:** Willian
 - **Cliente/Setor Solicitante:** (Ex: Secretaria, Biblioteca, Coordenação)
 
 ---
