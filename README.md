@@ -12,31 +12,31 @@
 - **Instituição:** FUNEC Riacho
 - **Ano/Semestre:** 2026/2º semestre
 - **Professor Orientador:** Willian
-- **Cliente/Setor Solicitante:** Órgãos publicos
+- **Cliente/Setor Solicitante:** Órgãos públicos
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Desenvolver um dispositivo integrado com um site para registrar e monitorar o gasto de energia elétrica dos órgãos publicos, permitindo consultas rápidas, controle de gastos e geração de relatórios.
+Desenvolver um dispositivo integrado com um site para registrar e monitorar o gasto de energia elétrica dos órgãos públicos, permitindo consultas rápidas, controle de gastos e geração de relatórios.
 
 ---
 
 ## 👥 Público-Alvo
 
-- Órgãos publicos
+- Órgãos públicos
 
 ---
 
 ## 🧩 Problema a Ser Resolvido
 
-A falta de monitoramento e de informações armazenadas
+A falta de monitoramento e de informações armazenadas.
 
 ---
 
 ## 💡 Solução Proposta
 
-Um dispositivo integrado com um site com monitoração de gastos e uma inteligência artificial pra auxiliar em como diminuir a perda
+Um dispositivo integrado com um site com monitoração de gastos e uma inteligência artificial pra auxiliar em como diminuir a perda.
 
 ---
 
@@ -44,14 +44,10 @@ Um dispositivo integrado com um site com monitoração de gastos e uma inteligê
 
 ### Funcionalidades Principais
 
-- [ ] Cadastro de usuários
-- [ ] Login no sistema
-- [ ] Cadastro de itens (ex: livros, equipamentos, etc.)
-- [ ] Edição de dados
-- [ ] Exclusão de registros
-- [ ] Pesquisa/Busca
-- [ ] Relatórios
-- [ ] Controle de acesso por perfil
+- [ ] Monitoramento da corrente elétrica
+- [ ] Acompanhamento da tensão elétrica
+- [ ] Exibição de gráficos em tempo real
+- [ ] Auxiliar na identificação de desperdícios
 
 ---
 
@@ -92,7 +88,7 @@ Um dispositivo integrado com um site com monitoração de gastos e uma inteligê
 - O sistema deve ser acessível via navegador
 - O sistema deve ter interface simples e intuitiva
 - O sistema deve garantir segurança no acesso
-- O sistema deve funcionar em computadores da escola
+- O sistema deve funcionar em computadores
 
 ---
 
@@ -137,6 +133,5 @@ Um dispositivo integrado com um site com monitoração de gastos e uma inteligê
 
 Inserir imagens ou links para:
 
-- Figma
-- Canva
-- Wireframes
+- Figma: https://www.figma.com/proto/8nklgZoC1aXX6hMaQikIPv/Sem-t%C3%ADtulo?node-id=0-1&t=EHXggns5Qqidd56e-1
+- Tinkercad: https://www.tinkercad.com/things/6iRfZqCAOg7-projeto-sistema-de-monitoramento-energetico?sharecode=VWZ8KfTGbhxxhpuDjgvBhUvkJ0i9W9WHlgPW9tSgO-E
