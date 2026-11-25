@@ -12,49 +12,31 @@
 - **Instituição:** FUNEC Riacho
 - **Ano/Semestre:** 2026/2º semestre
 - **Professor Orientador:** Willian
-- **Cliente/Setor Solicitante:** (Ex: Secretaria, Biblioteca, Coordenação)
+- **Cliente/Setor Solicitante:** Órgãos publicos
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Descrever o objetivo principal do software.
-
-Exemplo:
-
-Desenvolver um sistema web para registrar e controlar o empréstimo de livros da biblioteca escolar, permitindo consultas rápidas, controle de devoluções e geração de relatórios.
+Desenvolver um dispositivo integrado com um site para registrar e monitorar o gasto de energia elétrica dos órgãos publicos, permitindo consultas rápidas, controle de gastos e geração de relatórios.
 
 ---
 
 ## 👥 Público-Alvo
 
-Quem utilizará o sistema?
-
-Exemplo:
-
-- Funcionários da biblioteca
-- Professores
-- Alunos
+- Órgãos publicos
 
 ---
 
 ## 🧩 Problema a Ser Resolvido
 
-Descrever qual problema existe atualmente.
-
-Exemplo:
-
-Atualmente o controle de empréstimos é feito manualmente em cadernos, o que dificulta a organização e a geração de relatórios.
+A falta de monitoramento e de informações armazenadas
 
 ---
 
 ## 💡 Solução Proposta
 
-Descrever a solução que será desenvolvida.
-
-Exemplo:
-
-Um sistema web com cadastro de usuários, livros e controle automático de empréstimos e devoluções.
+Um dispositivo integrado com um site com monitoração de gastos e uma inteligência artificial pra auxiliar em como diminuir a perda
 
 ---
 
@@ -75,16 +57,8 @@ Um sistema web com cadastro de usuários, livros e controle automático de empr�
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem:
-- Framework:
-- Banco de Dados:
-- Ferramentas:
-- Versionamento: Git e GitHub
-
-Exemplo:
-
 - Front-end: HTML, CSS, JavaScript
-- Back-end: Node.js
+- Back-end: Node.js, Python
 - Banco de Dados: MySQL
 - IDE: VS Code
 
@@ -160,13 +134,3 @@ Inserir imagens ou links para:
 - Figma
 - Canva
 - Wireframes
-
----
-
-## 📦 Como Executar o Projeto
-
-Passo a passo para rodar o sistema.
-
-Exemplo:
-
-1. Clonar o repositório
