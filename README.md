@@ -100,22 +100,28 @@ Um dispositivo integrado com um site com monitoração de gastos e uma inteligê
 
 | Etapa | Descrição | Responsável | Data |
 |------|-----------|-------------|------|
-| 1 | Levantamento de requisitos | Equipe | |
-| 2 | Modelagem do sistema | Equipe | |
-| 3 | Desenvolvimento | Equipe | |
-| 4 | Testes | Equipe | |
-| 5 | Entrega | Equipe | |
-
+| 1 | Planejamento do sistema | Victor Gonçalves | 29/5/26 |
+| 2 | Desenvolvimento do hardware| Lucas | 01/06/26 |
+| 3 | Desenvolvimento do site | Bernardo | 06/06/26 |
+| 4 | Coleta e transmissão de dados | Arthur | | 10/06/26|
+| 5 | Processamento e analise | Mikael | 12/06/26 |
+| 6 | Sistema de alertas | Pedro | 15/06/26 |
+| 7 | Testes e validação | Talita | 20/06/26 |
+| 8 | Documentação do projeto | Victor Santana | 01/07/26 |
 ---
 
 ## 🧑‍💻 Integrantes da Equipe
 
 | Nome | Função | Responsabilidade |
 |------|-------|-----------------|
-| | Desenvolvedor | |
-| | Designer | |
-| | Testador | |
-| | Documentação | |
+| Victor Gonçalves | Pesquisador | Fonte de pesquisa |
+| Lucas | Desenvolvedor | Desenvolvimento do hardware |
+| Arthur | Desenvolvedor | Coleta e transmissão de dados |
+| Mikael | Desenvolvedor | Processamento e analise |
+| Pedro | Desenvolvedor | Sistema de alertas |
+| Bernardo | Designer |  Desenvolvimento do site |
+| Talita | Testador | Testes e validação |
+| Victor Santana | Documentação | Documentação do projeto |
 
 ---
 
